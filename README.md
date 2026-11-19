@@ -16,4 +16,4 @@ Business Analytics student at National Economics University (NEU), pursuing **Da
 
 ---
 
-*Explore the pinned repositories below for detailed code, architecture, and business outcomes of each project.*
+*Explore the pinned repositories below for detailed outcomes of each project.*
